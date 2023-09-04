@@ -1,0 +1,8 @@
+git version
+git config --global user.name "Vadem"
+git config --global user.email "ууу"
+git add .\Seminar_1.md
+git commit -m "Initial"
+git log
+git checkout
+git checkout master
